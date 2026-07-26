@@ -26,7 +26,7 @@ https://www.tinkercad.com/things/8xgI2Ri6C95-sizzling-habbi-allis?sharecode=deGU
 ---
 
 ## Circuit
-![Circuit](ScreenshotArduino.png)
+![Circuit](Circuit3.jpg)
 
 ---
 
