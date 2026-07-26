@@ -1,6 +1,4 @@
 # Four-Wheel Robot Motion Control using Arduino
-
-## Description
 This project demonstrates the control of a four-wheel mobile robot using an Arduino Uno and two L293D motor driver ICs. Four DC motors are controlled to perform basic robot movements, including forward, backward, and alternating right and left turns.
 
 The robot moves according to a predefined sequence:
@@ -17,6 +15,18 @@ The robot moves according to a predefined sequence:
 - Breadboard
 - External Power Supply
 - Jumper Wires
+
+---
+
+
+## Tinkercad Simulation
+Simulation Link:
+https://www.tinkercad.com/things/8xgI2Ri6C95-sizzling-habbi-allis?sharecode=deGURSFuz33vAZbe4XhHBZdt9_PKsPPjPV9CxrBdnmE
+
+---
+
+## Circuit
+![Circuit](ScreenshotArduino.png)
 
 ---
 
@@ -62,19 +72,12 @@ The robot moves according to a predefined sequence:
 
 ---
 
-## Tinkercad Simulation
-Simulation Link:
-> Paste your Tinkercad project link here.
-
----
-
 ## Project Files
 | File | Description |
 |------|-------------|
 | [`Four_Wheel_Robot.ino`](./Four_Wheel_Robot.ino) | Arduino source code |
 | [`README.md`](./README.md) | Project documentation |
-| [`Circuit.jpg`](./Circuit.jpg) | Circuit wiring image *(optional)* |
-| [`Demo.mp4`](./Demo.mp4) | Demonstration video *(optional)* |
+| [`Circuit3.jpg`](./Circuit3.jpg) | Circuit wiring image  
 
 ---
 
@@ -86,18 +89,3 @@ Simulation Link:
 - The movement sequence repeats continuously.
 
 ---
-
-## Technologies Used
-
-- Arduino IDE
-- C++
-- Arduino Uno
-- L293D Motor Driver
-- DC Motors
-- Tinkercad
-
----
-
-## Author
-
-Marah Alshebel
